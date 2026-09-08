@@ -13,7 +13,7 @@ different account. The cask is published together with each staged CLI release.
 
 ```sh
 brew tap howardman0209/card-factory
-brew install --cask howardman0209/card-factory/card-factory
+brew install --cask card-factory
 card-factory --version
 card-factory doctor --scheme mastercard
 ```
