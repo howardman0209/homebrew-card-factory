@@ -1,8 +1,8 @@
 cask "card-factory" do
-  version "0.2.1"
-  # Recomputed from the anonymously downloaded cli-0.2.1 asset and matched
+  version "0.2.2"
+  # Recomputed from the anonymously downloaded cli-0.2.2 asset and matched
   # against its published .zip.sha256 sidecar.
-  sha256 "5523524aa06d12755e04470222c39d6ac3c41f7f20d6b7c80e83e9060d5da08e"
+  sha256 "deac2a0f6d69f52cdd35f3cfaf54c5d358ce11cc9219637b567f01531e42211a"
 
   url "https://github.com/howardman0209/EmvTestCardFactory-CLI/releases/download/cli-#{version}/card-factory-#{version}-macos-aarch64.zip"
   name "Card Factory CLI"
